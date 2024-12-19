@@ -1,0 +1,95 @@
+.header{
+    background-image: url('../images/movie.jfif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    color: navy;
+    font-size: 25px;
+    /* border: 2px solid rgb(7, 0, 0); */
+    text-align: center;
+    padding: 30px;
+}
+
+.nav ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    /* border: 2px solid black; */
+    background-color: yellow;
+}
+
+.nav ul li{
+    float: left;
+
+}
+
+.nav ul li a{
+    display: block;
+    /* border: 2px solid black; */
+    text-align: center;
+    padding: 30px;
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+}
+
+.box1{
+    /* border: 2px solid black; */
+    text-align: center;
+    color:red;
+    margin-right: 1000px;
+    padding: 30px;
+}
+
+.box1 button{
+    /* border: 2px solid black; */
+    text-align: center;
+    background-color:rgb(3, 139, 14);
+    color: black;
+    font-size: 20px;
+
+}
+
+.box2{
+    /* border: 2px solid black; */
+    text-align: center;
+    color:red;
+    margin-left: 1000px;
+}
+
+.box2 button{
+    /* border: 2px solid black; */
+    text-align: center;
+    background-color: yellow;
+    color: black;
+    font-size: 20px;
+}
+
+.box2{
+    /* border: 2px solid black; */
+    text-align: center;
+    color:red;
+    margin-left: 1000px;
+}
+    
+.box2 button{
+    /* border: 2px solid black; */
+    text-align: center;
+    background-color: yellow;
+    color: black;
+    font-size: 20px;
+}
+.header{
+    background-image: url('../images/movie.jfif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80px;
+    color: navy;
+    font-size: 20px;
+    /* border: 2px solid rgb(7, 0, 0); */
+    text-align: center;
+    padding: 20px;
+}
